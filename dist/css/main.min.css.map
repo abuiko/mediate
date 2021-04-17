@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,CAAC,AAAC,CACE,OAAO,CAAE,CAAC,CACV,MAAM,CAAE,CAAC,CACT,UAAU,CAAE,UAAU,CACzB",
+    "sources": [
+        "../../scss/main.scss",
+        "../../scss/base/_base.scss",
+        "../../scss/layout/_hero.scss",
+        "../../scss/abstracts/_colors.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}
