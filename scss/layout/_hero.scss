@@ -53,7 +53,8 @@
     top: -15%;
     width: 25px;
     height: 190px;
-    border: 1px solid magenta;
+    animation: rotate 7500ms linear infinite;
+    transform-origin: center bottom;
 }
 
 .cursor {
