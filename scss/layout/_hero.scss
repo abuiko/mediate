@@ -47,3 +47,19 @@
 .container.shrink {
     animation: shrinkCircle 3s linear forwards;
 }
+
+.cursor-container {
+    position: absolute;
+    top: -15%;
+    width: 25px;
+    height: 190px;
+    border: 1px solid magenta;
+}
+
+.cursor {
+    position: absolute;
+    width: 100%;
+    height: 25px;
+    border-radius: 50%;
+    background: white;
+}
